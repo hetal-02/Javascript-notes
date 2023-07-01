@@ -1,0 +1,10 @@
+#keyed collections
+
+These objects represent collections which use keys. The iterable collections (Map and Set) contain elements which are easily iterated in the order of insertion.
+
+Map
+Set
+WeakMap
+WeakSet
+
+
